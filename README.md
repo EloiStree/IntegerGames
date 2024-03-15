@@ -1,4 +1,7 @@
 # IntegerGames
+
+"Allows millions of user to rent a integer on the web to create small application that need communication without requesting heavy server knowledge. Owner of integer can play the game of the studio that only require a integer to play to it."
+
 Pitch of the Integer Games concept.
 
 - I want to be able to managed bots on several computer with a precised timing but to do that I need a server to communicte between those bots.
