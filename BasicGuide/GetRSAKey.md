@@ -25,4 +25,4 @@ http://github.com/EloiStree/IntegerGamesPublicKey
 > To avoid social hacking.  
 > Any support request to the team will be check by a signed message using the public key linked to the integer.  
 > No Exception.   
-> Don't lose your private key (^^' )
+> <u>Don't lose your private key (^^' )</u>  
