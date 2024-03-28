@@ -3,8 +3,8 @@
 A RSA key is composed of a private and public key.
 
 ### Example: Generate a RSA Key
-Using this tool to generate a key pair: https://cryptotools.net/rsagen 
-Tool to learn by playing with RSA: https://www.devglan.com/online-tools/rsa-encryption-decryption
+Using this tool to generate a key pair: https://cryptotools.net/rsagen   
+Tool to learn by playing with RSA: https://www.devglan.com/online-tools/rsa-encryption-decryption  
 
 ```
 -----BEGIN PUBLIC KEY-----
