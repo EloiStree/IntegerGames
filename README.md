@@ -1,5 +1,6 @@
 # IntegerGames
-
+Git; [Integer Games](https://github.com/EloiStree/IntegerGames) | [RSA Key](https://github.com/EloiStree/IntegerGamesPublicKey) | [RSA to Platform](https://github.com/EloiStree/IntegerGames) | [Tools](https://github.com/EloiStree/IntegerGamesTools)    
+Web: [Website Landing Page](https://integergames.be) | [Log In](https://www.tipeeestream.com/integergames/)  
 ![IntegerGamesLogo](https://github.com/EloiStree/IntegerGames/assets/20149493/750d4a9c-ffb3-47e3-b6a9-db1ca6d295e7)
 
 > "Allows millions of user to rent a integer on the web to create small application that need communication without requesting heavy server knowledge. Owner of integer can play the game of the studio that only require a integer to play to it."
