@@ -3,14 +3,15 @@ Local IP: 192.168.1.69
   
 (🤝 require: Singed Handshake RSA)  
 (🤖 Easy to use, but first to be disable during DOS attack)  
+(💖 Donation dependancy)
   
 This array is want I would like and not what is currently implemented.  
 
 | #   | Port| Description                         |    |        |
 | --- | -----| -------------------------------     | -- |------|
 |X | 4500 | RSA SETUP WEBSOCKET                 |🤝    | Use to set your account from your RSA key|
-|X | 4501 | RSA OPEN INTEGER WEBSOCKET          |🤝    | Use to change integer |
-|X | 4502 | RSA OPEN INTEGER UDP PUSH ONLY    |🤝🤖| Use to change integer  |
+|X | 4501 | RSA OPEN INTEGER WEBSOCKET          |🤝    | Use to change integer (Ban on Spam 💖)|
+|X | 4502 | RSA OPEN INTEGER UDP PUSH ONLY    | 🤝🤖 | Use to change integer  (Ban on Spam 💖)|
 |X | 4503 | RSA INTEGER GAMES LINE BROADCAST    |🤝    | LINE and Key:Value emitted by the game of the stream |
 |X | 4504 | RSA INTEGER GAMES BYTES BROADCAST   |🤝    | BYTES of object requiring 30 FPS UPDATE and are essential to the game|
 |X | 4505 | RSA INTEGER CHANGED BROADCASTER     |🤝     |Allows to listen to a specific integer change if you have the key|
@@ -22,7 +23,17 @@ This array is want I would like and not what is currently implemented.
 |X | 4510 | OPEN TWITCH PLAY IN Websocket       |    🤖|OPEN WHEN TWITHC PLAY TYPE OF GAME ACCEPTING TEXT|
 |X | 4511 | OPEN TWITCH PLAY IN UDP TEXT        |    🤖|OPEN WHEN TWITHC PLAY TYPE OF GAME ACCEPTING TEXT|
 |X | 4512 | OPEN TWITCH PLAY WEBSOCKET BROADCAST|    🤖|OPEN TO HAVE GAME CONTEXT INFO FROM THE GAME IN TEXT FORMAT|
-|X | 4513 | OFFLINE ML STUDIO |🤝    🤖|OPEN TO HAVE GAME CONTEXT INFO FROM THE GAME IN TEXT FORMAT|
-|X | 4514 | OFFLINE WHISPER   |🤝    🤖|OPEN TO HAVE GAME CONTEXT INFO FROM THE GAME IN TEXT FORMAT|
+|X | 4513 | OFFLINE ML STUDIO |🤝    🤖| Use Offline AI to generate teaching content (For Server Rent Donation Only 💖)|
+|X | 4514 | OFFLINE WHISPER   |🤝    🤖| Use offline AI to translate audio to teaching content (For Server Rent Donation Only 💖)|
 |X | 4520 | RSA ADD INTEGER EXACT TIMING SYNC |🤝|ADD INTEGER TO BE CHANGE AT AN EXACT TIMING TO THE MILLISECONDS |
 |X | 4521 | FRIEND INTEGER EXACT TIMING SYNC |🤖|ALLOWS YOUR FRIEND TO LISTEN TO THE INTEGER CHANGE AND PREPARE FOR THE CHANGE|
+
+| #   | Web Page| Description  
+| --- | -----| -------------------------------    
+|X | Toolbox/GenerateRsaKeyPair.php | Generate for you a Key Pair Online with Javascript  
+|X | RSA/PUSH_SETUP_RSA_ACTION.php | Allows to configure your server(s) config files based on a RSA 1024 Key.
+|X | RSA/SET_INDEXINTEGER.php | Request from a post message to set integer to a value 
+|X | RSA/QUEUE_INDEXINTEGERDATE.php | Request from a post messsage to set integer at a specific date. (Limited size of Queue 💖) 
+|X | 4501 | RSA OPEN INTEGER WEBSOCKET          
+|X | 4502 | RSA OPEN INTEGER UDP PUSH ONLY   
+
