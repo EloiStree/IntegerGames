@@ -23,8 +23,8 @@ This array is want I would like and not what is currently implemented.
 |X | 4510 | OPEN TWITCH PLAY IN Websocket       |    🤖|OPEN WHEN TWITHC PLAY TYPE OF GAME ACCEPTING TEXT|
 |X | 4511 | OPEN TWITCH PLAY IN UDP TEXT        |    🤖|OPEN WHEN TWITHC PLAY TYPE OF GAME ACCEPTING TEXT|
 |X | 4512 | OPEN TWITCH PLAY WEBSOCKET BROADCAST|    🤖|OPEN TO HAVE GAME CONTEXT INFO FROM THE GAME IN TEXT FORMAT|
-|X | 4513 | OFFLINE ML STUDIO |🤝    🤖| Use Offline AI to generate teaching content (For Server Rent Donation Only 💖)|
-|X | 4514 | OFFLINE WHISPER   |🤝    🤖| Use offline AI to translate audio to teaching content (For Server Rent Donation Only 💖)|
+|X | 4513 | OFFLINE ML STUDIO |🤝 🤖| Use Offline AI to generate teaching content (For Server Rent Donation Only 💖)|
+|X | 4514 | OFFLINE WHISPER   |🤝 🤖| Use offline AI to translate audio to teaching content (For Server Rent Donation Only 💖)|
 |X | 4520 | RSA ADD INTEGER EXACT TIMING SYNC |🤝|ADD INTEGER TO BE CHANGE AT AN EXACT TIMING TO THE MILLISECONDS |
 |X | 4521 | FRIEND INTEGER EXACT TIMING SYNC |🤖|ALLOWS YOUR FRIEND TO LISTEN TO THE INTEGER CHANGE AND PREPARE FOR THE CHANGE|
 
@@ -34,6 +34,4 @@ This array is want I would like and not what is currently implemented.
 |X | RSA/PUSH_SETUP_RSA_ACTION.php | Allows to configure your server(s) config files based on a RSA 1024 Key.
 |X | RSA/SET_INDEXINTEGER.php | Request from a post message to set integer to a value 
 |X | RSA/QUEUE_INDEXINTEGERDATE.php | Request from a post messsage to set integer at a specific date. (Limited size of Queue 💖) 
-|X | 4501 | RSA OPEN INTEGER WEBSOCKET          
-|X | 4502 | RSA OPEN INTEGER UDP PUSH ONLY   
 
