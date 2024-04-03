@@ -8,8 +8,8 @@ This array is want I would like and not what is currently implemented.
 
 | #   | Port| Description                         |    |        |
 | --- | -----| -------------------------------     | -- |------|
-|X | 4500 | RSA SETUP WEBSOCKET                 |🤝    | Use to set your account from your RSA key 🤝|
-|X | 4501 | RSA OPEN INTEGER WEBSOCKET          |🤝    | Use to change integer 🤝|
+|X | 4500 | RSA SETUP WEBSOCKET                 |🤝    | Use to set your account from your RSA key|
+|X | 4501 | RSA OPEN INTEGER WEBSOCKET          |🤝    | Use to change integer |
 |X | 4502 | RSA OPEN INTEGER UDP PUSH ONLY    |🤝🤖| Use to change integer  |
 |X | 4503 | RSA INTEGER GAMES LINE BROADCAST    |🤝    | LINE and Key:Value emitted by the game of the stream |
 |X | 4504 | RSA INTEGER GAMES BYTES BROADCAST   |🤝    | BYTES of object requiring 30 FPS UPDATE and are essential to the game|
