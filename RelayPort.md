@@ -1,12 +1,13 @@
-Current public ip: 81.240.94.97
-Local IP: 192.168.1.69
+Current public ip: 81.240.94.97  
+Local IP: 192.168.1.69  
   
-(🤝 require: Singed Handshake RSA)
-(🤖 Easy to use, but first to be disable during DOS attack)
+(🤝 require: Singed Handshake RSA)  
+(🤖 Easy to use, but first to be disable during DOS attack)  
+  
+This array is want I would like and not what is currently implemented.  
 
-This array is want I would like and not what is currently implemented.
 | #   | Port| Description                         |    |        |
-| --- | -----| -| -------------------------------     | -- |------|
+| --- | -----| -------------------------------     | -- |------|
 |X | 4500 | RSA SETUP WEBSOCKET                 |🤝    | Use to set your account from your RSA key 🤝|
 |X | 4501 | RSA OPEN INTEGER WEBSOCKET          |🤝    | Use to change integer 🤝|
 |X | 4502 | RSA OPEN INTEGER UDP PUSH ONLY    |🤝🤖| Use to change integer  |
