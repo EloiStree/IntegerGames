@@ -17,3 +17,10 @@ Lag 0.1-1.2 seconds !!!
 Go to share screen (less control on the participants)
 have a linux host your own server solution.
 https://meet.jit.si/IntegerGames
+
+
+# MJpeg in Rust ?
+
+Problem with that. We can't on shadow because of protection. But it it works ...
+Maybe a solution for other situation.
+https://github.com/blueimp/mjpeg-server
