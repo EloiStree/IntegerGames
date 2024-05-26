@@ -1,3 +1,13 @@
+
+<a href="https://github.com/datarhei/restreamer/blob/2.x/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/datarhei/restreamer" alt="License" /></a>
+<a href="https://github.com/datarhei/restreamer/releases" target="_blank"><img src="https://img.shields.io/github/v/release/datarhei/restreamer?include_prereleases" alt="License" /></a>
+<a href="https://hub.docker.com/r/datarhei/restreamer" target="_blank"><img src="https://img.shields.io/docker/pulls/datarhei/restreamer" alt="Docker pulls" /></a>
+<a href="https://discord.gg/9NM4hQyx" target="_blank"><img src="https://img.shields.io/discord/669914488723734548?label=Discord&logo=discord" alt="Discord" /></a>
+
+<a href="https://demo.datarhei.com/ui" target="_blank"><img src="https://img.shields.io/badge/username-admin-blue" alt="username" /></a>
+<a href="https://demo.datarhei.com/ui" target="_blank"><img src="https://img.shields.io/badge/password-demo-blue" alt="password" /></a>
+
+
 After long attempt to do it on Shadow with low resolutotion and parameter.
 I only succeed to have 
 
