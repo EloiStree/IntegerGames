@@ -11,3 +11,9 @@ But it means that you are limited to 40 minutes, or 30 hours if you pay, for 100
 373 520 6603  NoPass
 
 
+# Jitsi
+
+Lag 0.1-1.2 seconds !!!
+Go to share screen (less control on the participants)
+have a linux host your own server solution.
+https://meet.jit.si/IntegerGames
