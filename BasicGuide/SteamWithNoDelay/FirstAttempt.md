@@ -24,3 +24,14 @@ https://meet.jit.si/IntegerGames
 Problem with that. We can't on shadow because of protection. But it it works ...
 Maybe a solution for other situation.
 https://github.com/blueimp/mjpeg-server
+
+# OBS to users ?
+
+## RTMP
+
+## Restreamer
+
+- https://github.com/datarhei/restreamer
+- https://datarhei.com
+
+
