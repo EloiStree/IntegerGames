@@ -1,4 +1,28 @@
-Hello.
+Hello :)
+
+
+My name is Éloi Strée and I love code.
+
+I would like to share this magic by playing with the community.
+
+Twitch Play is the concept of playing with thousands of player from the Chat.
+[![image](https://github.com/EloiStree/IntegerGames/assets/20149493/19355b88-0a03-40f3-b747-706ad909662a)](https://www.youtube.com/watch?v=hEKbfId5oHM&ab_channel=TheGamerFromMars)
+https://www.youtube.com/watch?v=hEKbfId5oHM
+
+Chat is good but has an anti-spam, some delay and is not design to play with controllers.
+
+So I created some server that I call iMMO that use IID:
+- iMMO: Integer Massive Multiplayer Online
+- IID: Index Integer Date
+
+To play to the game you can only use integer that you send to the server.
+When send the integer is linked to the date of emission and on server a index is associed to the player.
+
+
+
+
+
+
 
 
 
